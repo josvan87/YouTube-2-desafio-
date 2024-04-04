@@ -1,0 +1,35 @@
+*{ margin: 0;
+padding: 0;
+ background-color: white;
+ 
+}
+
+body { background-color: white;
+
+      
+}
+ header{
+    background-color: beige;
+    height: 70px;
+
+
+ }
+
+ main {background-color: bisque;
+    height: 570px;
+    width: 1000px;
+
+   
+
+     }
+
+ footer{
+    background-color: azure;
+    height: 570px;
+    width: 330px;
+    
+   
+ }
+ .centro{
+    display: flex;
+ }
